@@ -4,6 +4,7 @@ Compiling my contract
 I selected the solidity compiler from the sidebar and I made sure that the compiler version matches the one specicified in my solidity file and I clicked on compile i saw a green checkmark on the solidity compiler which indicates that it was nothing wrong with my smart contract.
 
 Deploying my contract
-I navigated to the "Deploy & Run Transactions" tab and clicked on deploy I tested the contact by entering values into the contract funstions and observed it's response.
+I navigated to the "Deploy & Run Transactions" tab and selected injected Web3(MetaMask) and deployed 'storage factory'clicked on deploy I tested the contact by entering values into the contract functions and observed it's response. I tested data retrieval and updates on the Arbitrum Seploia Testnet.
 
-My challenges
+My challenges 
+My test and data retrieval from Arbitrum Sepolia Test etc was not successful.
